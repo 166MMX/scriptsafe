@@ -1,0 +1,15 @@
+{
+  "name": "scriptsafe",
+  "version": "0.9.8",
+  "description": "a browser extension bringing security and privacy to chrome, firefox and opera",
+  "main": "background.js",
+  "repository": "github:166MMX/scriptsafe",
+  "author": "166_mmx",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/166MMX/scriptsafe#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4",
+    "pako": "^1.0.6"
+  }
+}
