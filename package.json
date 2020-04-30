@@ -9,7 +9,7 @@
   "homepage": "https://github.com/166MMX/scriptsafe#readme",
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "pako": "^1.0.6"
   }
 }
